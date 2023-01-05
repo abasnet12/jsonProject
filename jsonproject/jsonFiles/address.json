@@ -1,0 +1,19 @@
+{
+    "firstName": "Ambar",
+    "lastName": "Basnet",
+    "address": [
+        {
+            "street":"1000",
+            "city": "Springs",
+            "state": "CO"
+        },
+        {
+            "street":"5000",
+            "city": "Denver",
+            "state": "CO"
+        }
+
+
+    ]
+
+}
